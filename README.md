@@ -3,7 +3,7 @@
   <a target="_blank" href="https://rahul-jassal-jusmusic.vercel.app/" target="_blank">Live app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./spotify-clone/src/assets/Spotify.png" />
+  <img alt="Demo" src="./spotify-clone/src/assets/Youtube.png" />
 </div>
 
 <br/>
