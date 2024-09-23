@@ -12,6 +12,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 </center>
 
@@ -21,24 +22,57 @@ This project is a clone of the popular video-sharing platform <b>YouTube</b>, de
 
 </p>
 
-Usage
+
+## Usage
 To use this project, follow these steps:
+<ul>
+  
+<li>Clone the repository.</li>
 
-Clone the repository.
-Install the dependencies using npm install.
-Create a .env file in the root directory and add your YouTube API key as GOOGLE_API_KEY=<your-api-key>.
-Start the development server using npm start.
-Open your web browser and navigate to http://localhost:3000.
-Conclusion
-This YouTube clone project demonstrates how to build a modern web application using React, Redux Toolkit, TailwindCSS, and other libraries. The project includes several useful features, such as search suggestions, search caching, optimized search using debouncing and caching, optimized API calls using debouncing, comments section, and live chat. These features are not only useful for a YouTube clone but can be applied to any large-scale web application. The project can be used as a starting point for building similar web applications and as a reference for learning how to implement advanced features in React.
+<li>Install the dependencies using npm install.</li>
 
-Dependencies
+<li>Create a .env file in the root directory and add your YouTube API key as GOOGLE_API_KEY=<your-api-key>.</li>
+
+<li>Start the development server using npm start.</li>
+
+<li>Open your web browser and navigate to http://localhost:3000.</li>
+
+</ul>
+
+## Conclusion
+<p>
+  
+This YouTube clone project demonstrates how to build a modern web application using React, Redux Toolkit, TailwindCSS, and other libraries. The project includes several useful features, such as search suggestions, search caching, optimized search using debouncing and caching, optimized API calls using debouncing, comments section, and live chat. These features are useful not only for a YouTube clone but also for any large-scale web application. The project can be used as a starting point for building similar web applications and as a reference for learning how to implement advanced features in React.
+  
+</p>
+  
+
+
+## Dependencies
 This project uses the following dependencies:
 
-React
-Redux Toolkit
-Moment
-React Icons
-React Router DOM
-TailwindCSS
-These dependencies are listed in the package.json
+<ul>
+
+  <li>React</li>
+
+ <li>Redux Toolkit</li>
+
+<li>Moment</li>
+
+<li>
+  Moment
+</li>
+
+<li>
+  React Icons
+</li>
+
+<li>
+  React Router DOM
+</li>
+
+<li>
+  TailwindCSS
+</li>
+
+</ul>
