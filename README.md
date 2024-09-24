@@ -1,6 +1,6 @@
 <h2 align="center">
   YouTube Clone<br/>
-  <a target="_blank" href="https://rahul-jassal-jusmusic.vercel.app/" target="_blank">Live app</a>
+  <a target="_blank" href="https://rahul-jassal-youtube-clone.vercel.app/" target="_blank">Live app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./src/assets/Youtube.png" />
